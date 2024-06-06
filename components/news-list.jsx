@@ -2,7 +2,6 @@ import Link from "next/link";
 import { DUMMY_NEWS } from "@/dummy-news";
 
 const NewsList = ({ news }) => {
-  console.log("PASS: ", news);
   return (
     <ul className="news-list">
       {news.map((newsItem) => (
