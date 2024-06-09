@@ -1,3 +1,6 @@
 {
-  "recommendations": ["waderyan.gitblame"]
+  "recommendations": [
+    "waderyan.gitblame",
+    "ms-vscode.vscode-typescript-next"
+  ]
 }
